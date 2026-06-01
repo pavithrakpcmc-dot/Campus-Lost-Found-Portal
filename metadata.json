@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found Portal",
+  "description": "A web platform where students can report lost or found items within the campus and connect with the rightful owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
